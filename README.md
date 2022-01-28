@@ -9,8 +9,8 @@
 
 ## Play Online at 
 
-https://codesandbox.io/s/recreate-dino-game-in-js-p1m6e
-https://p1m6e.csb.app/
+- https://codesandbox.io/s/recreate-dino-game-in-js-p1m6e
+- https://p1m6e.csb.app/
 
 ![dinogame](https://raw.githubusercontent.com/syedMSohaib/dino-game/master/public/Screenshot%202022-01-28%20at%207.58.25%20PM.png) 
 
